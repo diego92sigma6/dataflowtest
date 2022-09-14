@@ -6,7 +6,7 @@ import com.google.dataflow.v1beta3.stub.MetricsV1Beta3StubSettings;
 import com.google.protobuf.Timestamp;
 
 public class Main {
-    public static void main(String[] args) {    
+    public static void main(String[] args) {
         String projectId = args[0];
         String location = args[1];
         String jobId = args[2];
