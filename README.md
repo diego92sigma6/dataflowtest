@@ -3,6 +3,10 @@ This project tests a call to Dataflow getMetrics endpoint using gax-java 0.104.1
 the previous version is not produced
 
 # Usage
+Required tools:
+* maven
+* gcloud cli
+
 This sample project requires default gcloud credentials to be set. This can be 
 done with the command `gcloud auth application-default login`
 ```shell
